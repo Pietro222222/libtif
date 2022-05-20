@@ -4,7 +4,7 @@ version = "0.1.2"
 edition = "2021"
 license = "MIT"
 description = "library for parsing/saving tif files"
-github = "https://github.com/pietro222222/libtif"
+repository = "https://github.com/pietro222222/libtif"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
