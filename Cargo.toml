@@ -1,0 +1,10 @@
+[package]
+name = "libtif"
+version = "0.1.1"
+edition = "2021"
+license = "MIT"
+description = "library for parsing/saving tif files"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
