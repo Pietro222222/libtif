@@ -37,7 +37,7 @@ impl TifImage {
         //width is defined inside the tif file
         let width: u8 = bytes[5];
 
-        //this are variables which we'll only use at parse-time
+
         let mut raw_pixels: Vec<PixelColor> = vec![];
 
         for byte in bytes[6..].chunks(2) {
